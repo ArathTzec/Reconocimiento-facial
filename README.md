@@ -42,7 +42,6 @@ Una vez completados los pasos anteriores dependiendo de las imagenes que hayas c
 
 ![](https://github.com/ArathTzec/Reconocimiento-facial/blob/main/Ejercicios%20deepface/Ejercicio1/Resultado_Eje2.jpeg?raw=true)
 
-Puedes ver los nodos en el siguiente link [Nodos-Flow5](https://github.com/ArathTzec/Flow-5/blob/main/Nodos%20node%20red%20flow%205-1.png)
 
 ## Evidencia 
 
